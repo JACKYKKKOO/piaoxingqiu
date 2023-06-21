@@ -1,9 +1,9 @@
 # 输入自己的token
-token = 'your token'
+token = 'eyJ0eXAiOiJKV1QiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJhbGciOiJSUzUxMiJ9.eNp8kMtqwzAQRf9l1l7oOZK9TElpIKUQmkVXRbbGxOBIQZZLaci_V6mb0FWXczln5jJniG7Oh03oIzRhHscK5onSMp-hHb4eoido4PFp-_4MFUxzu7qHKNA4y4i84FYrYSz2XNWqcMXcxfEKrfZv611JjrnbX1f7kmlPrSPtvOWt7iW3BlXHGS7iHUNVC42GSSYsImOMC6mF6-FSAX2ehkSvw5FuxYv5cqLkcvzXpnKkS-Tyr8zRGsmVkUJrU2pS6g4u5L8vKbd-uLpmWLgKPihNQwzQyOVfwd1qXL4BAAD__w.OHjsP2hQY8wB_A22q0Vx_fcWjmvCmIuPahTTU2Ib5Tv8n_ITa3rkSjPTT6lP-xRehguhadPGMV5OpoYjZiHi5hWvg__HmCIQc7eAYVkWLmzRb9UT7oFLdxnCHQFgALVcNemiV7GzSoDNBakM4w16HNedN26Y59dSTxpfm9KFUN4'
 # 项目id，必填
-show_id = '644fcb2aca916100017dcfef'
+show_id = '646f3448286ad7000162db08'
 # 指定场次id，不指定则默认从第一场开始遍历
-session_id = ''  # 644fcb7dca916100017dda3d
+session_id = '' # 644fcb7dca916100017dda3d
 # 购票数量，一定要看购票须知，不要超过上限
 buy_count = 2
 # 指定观演人，观演人序号从0开始，人数需与票数保持一致
